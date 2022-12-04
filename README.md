@@ -1,6 +1,6 @@
 # awesome-bilibili-up [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/colflip/awesome-bilibili-up)
 
-收集哔哩哔哩弹幕网（bilibili.com)上有趣的up主。
+收集哔哩哔哩弹幕网(bilibili.com)上有趣的up主。
 
 ## 数码测评区
 
